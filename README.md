@@ -4,7 +4,7 @@
 
 You can enter in all the stocks you have and this tool will optimize your investment portfolio. It uses Python for data handling and cleaning and C++ for computationally intensive optimization tasks.
 
-## Mathematical Algorithms Used
+## Algorithms Used
 
 1. **Mean-Variance Optimization**:
    - This method finds the optimal portfolio allocation by maximizing expected returns for a given level of risk or minimizing risk for a given level of expected returns.
