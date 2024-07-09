@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Portfolio Optimizer** is a tool designed to optimize investment portfolios by using advanced mathematical algorithms. This project provides a complete end-to-end solution involving data acquisition, data preprocessing, portfolio optimization, and a web interface for user interaction. It leverages Python for data handling and cleaning, C++ for computationally intensive optimization tasks, and React with Bootstrap for a modern and responsive frontend.
+You can enter in all the stocks you have and this tool will optimize your investment portfolio. It uses Python for data handling and cleaning and C++ for computationally intensive optimization tasks.
 
 ## Mathematical Algorithms Used
 
