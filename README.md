@@ -3,6 +3,10 @@
 ## Project Overview
 
 You can enter in all the stocks you have and this tool will optimize your investment portfolio. It uses Python for data handling and cleaning and C++ for computationally intensive optimization tasks.
+<img width="929" alt="Screenshot 2024-07-10 at 4 50 36 PM" src="https://github.com/jamisen-ma/InvestOptimizer/assets/100271213/6652312f-9fa6-41ac-9323-279e9986799c">
+<img width="756" alt="Screenshot 2024-07-10 at 4 50 28 PM" src="https://github.com/jamisen-ma/InvestOptimizer/assets/100271213/c624cbcb-bb7e-41e7-9e3b-2a6fc383ea8d">
+<img width="759" alt="Screenshot 2024-07-10 at 4 49 24 PM" src="https://github.com/jamisen-ma/InvestOptimizer/assets/100271213/bb8c4056-9983-450f-82ab-9893df8defea">
+<img width="890" alt="Screenshot 2024-07-10 at 4 49 06 PM" src="https://github.com/jamisen-ma/InvestOptimizer/assets/100271213/b3763cfd-a893-4719-8422-0875f4448c41">
 
 ## Algorithms Used
 
